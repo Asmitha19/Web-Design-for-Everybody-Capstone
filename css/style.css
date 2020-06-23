@@ -145,7 +145,8 @@ footer {
     border-top: 8px solid #bc4f5e;
     background: #FFFFFF;
     color: #470a0a;
-
+    width: 100%;
+    position: absolute;
 }
 
 /* portfolio */
@@ -194,14 +195,6 @@ textarea
 {
     background-color: #bc4f5e;
     color: #fff;
-}
-
-/* calendar*/
-
-.calendar{
-  width: 70%;
-  margin-left: 25%;
-  margin-right: 15%;
 }
 
 /* gallery */
