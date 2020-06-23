@@ -145,8 +145,9 @@ footer {
     border-top: 8px solid #bc4f5e;
     background: #FFFFFF;
     color: #470a0a;
-    width: 100%;
     position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 /* portfolio */
